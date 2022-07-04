@@ -11,7 +11,6 @@ body {
         overflow-x: hidden;
         box-sizing: border-box;
         font-family: 'Inter', sans-serif;
-        overflow-x: hidden;
 }
 
 ol, ul {
@@ -25,6 +24,7 @@ a {
 
 .app {
         width: 100%;
+        padding-bottom: 80px;
 }
 
 .header__top {
@@ -61,7 +61,7 @@ a {
 
 .body {
         margin-top: 50px;
-        padding: 0 70px;
+        padding: 0 70px 150px;
 }
 
 .body__content + .body__content {
