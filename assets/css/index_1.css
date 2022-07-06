@@ -19,8 +19,7 @@ list-style: none;
 
 
 .row{
-        margin-top: 30px;
-        margin-bottom: 100px;
+        height: 100vh;
         padding: 80px;
         display:flex;
         justify-content: space-between;
